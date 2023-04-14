@@ -1,0 +1,4 @@
+#Wed Apr 12 16:04:59 EAT 2023
+base.0=/home/emobilis/AndroidStudioProjects/AfternoonSQLte1App/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
